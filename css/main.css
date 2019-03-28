@@ -132,7 +132,7 @@ padding-top: 2px;
 padding-bottom: 2px;
 }
 
-  li {
+  .menu {
     display: inline;
     padding: 0px 10px 0px 10px;
   }
