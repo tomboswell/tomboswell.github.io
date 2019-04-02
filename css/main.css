@@ -177,6 +177,8 @@ img {
 
 nav {
   display: block;
+  text-align: left;
+ padding-left: 30px;
 }
 
 
