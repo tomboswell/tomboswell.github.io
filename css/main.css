@@ -134,7 +134,8 @@ padding-bottom: 2px;
 
   .menu {
     display: inline;
-    padding: 0px 10px 0px 10px;
+    text-align: left;
+ padding-left: 30px;
   }
 
 img {
