@@ -151,7 +151,7 @@ img {
     margin-right: auto;
 }
 
-a{
+.anchor {
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
@@ -172,33 +172,6 @@ a{
 }
 
 
-body {margin: 0;}
-
-ul.topnav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #FBCDBF;
-}
-
-ul.topnav li {float: left;}
-
-ul.topnav li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-ul.topnav li a:hover:not(.active) {background-color: blue;}
-
-ul.topnav li a.active {background-color: red;}
-
-@media screen and (max-width: 600px) { 
-  ul.topnav li {float: none;}
-}
 
 
 
