@@ -134,7 +134,10 @@ padding-bottom: 2px;
 
   .menu {
     display: inline;
-    text-align: left;
+}
+
+.navb {  
+   text-align: left;
  padding-left: 30px;
   }
 
