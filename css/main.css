@@ -172,7 +172,7 @@ nav {
 }
    nav a {
     display: block; 
-    float: left;
+    float: right;
     font-family: 'Dosis', sans-serif;
     font-size: 9px;
     color: #882064;
@@ -188,6 +188,7 @@ nav {
     background-color: #fbebbf;
   }
   #logo {
+    float: left;
     font-family: 'Dosis', sans-serif;
     font-size: 30px;
     letter-spacing: -2px;
@@ -374,5 +375,3 @@ nav {
         page-break-after: avoid;
     }
 }
-
-
