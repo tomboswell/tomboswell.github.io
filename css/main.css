@@ -135,7 +135,7 @@ h1, h2, a {
     padding-top: 50px;
     padding-bottom: 120px;
       width: 100%;
- max-width: 1024px; /* or whatever width you want */
+ max-width: 720px; /* or whatever width you want */
 	margin-right: auto;
 	margin-left: auto;  
 }
