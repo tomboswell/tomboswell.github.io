@@ -132,9 +132,8 @@ h1, h2, a {
 
 
 img {
-    width: 130px;
-    border-radius: 50%;
-	max-width: 100%;
+border-radius: 50%;
+max-width: 100%;
 }
 
 
