@@ -134,6 +134,7 @@ h1, h2, a {
 img {
     width: 130px;
     border-radius: 50%;
+	max-width: 100%;
 }
 
 
@@ -154,6 +155,7 @@ img {
     margin-top: 35px;
     display: inline-block;
     border-radius: 25px;
+	max-width: 100%;
 }
 
 
