@@ -141,6 +141,14 @@ h1, h2, a {
 }
 
 
+.resume {
+    padding-top: 50px;
+    padding-bottom: 50px;
+      width: 100%;
+ max-width: 720px; /* or whatever width you want */
+	margin-right: auto;
+	margin-left: auto;  
+}
 
 img {
 border-radius: 50%;
