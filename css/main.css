@@ -150,7 +150,7 @@ h1, h2, a {
 	margin-left: auto;  
 }
 
-img {
+.icon {
 border-radius: 50%;
 max-width: 100%;
 }
