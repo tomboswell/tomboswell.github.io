@@ -133,7 +133,7 @@ h1, h2, a {
 
 .about {
     padding-top: 50px;
-    padding-bottom: 120px;
+    padding-bottom: 10px;
       width: 100%;
  max-width: 720px; /* or whatever width you want */
 	margin-right: auto;
@@ -168,19 +168,6 @@ max-width: 100%;
 	margin-right: auto;
 	margin-left: auto;  
 }
-
-
- padding-top: 50px;
-
-    padding-bottom: 120px;
-
-      width: 100%;
-
- max-width: 720px; /* or whatever width you want */
-
-	margin-right: auto;
-
-	margin-left: auto;  
 
 
 
