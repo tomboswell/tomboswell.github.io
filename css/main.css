@@ -160,6 +160,10 @@ max-width: 100%;
 }
 
 
+.badge {
+	padding-top: 20px;
+}
+
 
 .anchor {
     font-size: 18px;
