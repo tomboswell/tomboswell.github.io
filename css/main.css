@@ -156,12 +156,6 @@ max-width: 100%;
 }
 
 
-.norounding {
-border-radius: 0%;
-max-width: 100%;
-}
-
-
 .logo {
 	padding-top: 20px;
 }
@@ -222,6 +216,13 @@ max-width: 100%;
    text-decoration: none;
   color: #882064;
   }
+
+
+.norounding {
+border-radius: 0%;
+max-width: 100%;
+}
+
 
 
  /* ==========================================================================
