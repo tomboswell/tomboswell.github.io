@@ -151,13 +151,13 @@ h1, h2, a {
 }
 
 img {
-border-radius: 50%;
 max-width: 100%;
 }
 
 
 .logo {
 	padding-top: 20px;
+	border-radius: 50%;
 }
 
 
