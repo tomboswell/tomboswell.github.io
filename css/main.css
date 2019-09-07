@@ -150,7 +150,10 @@ h1, h2, a {
 	margin-left: auto;  
 }
 
-
+img#round {
+	max-width: 100%;
+	border-radius: 50%
+}
 
 img#rounded {
 	max-width: 100%;
