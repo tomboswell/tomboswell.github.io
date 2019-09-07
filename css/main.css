@@ -150,14 +150,11 @@ h1, h2, a {
 	margin-left: auto;  
 }
 
-img {
-	max-width: 100%;
-	border-radius: 50%
-}
+
 
 img#notround {
 	max-width: 100%;
-	border-radius: 0%
+	border-radius: 30%
 }
 
 
