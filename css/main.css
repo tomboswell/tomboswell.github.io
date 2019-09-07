@@ -155,6 +155,11 @@ img {
 	border-radius: 50%
 }
 
+img#notround {
+	max-width: 100%;
+	border-radius: 0%
+}
+
 
 .logo {
 	padding-top: 20px;
