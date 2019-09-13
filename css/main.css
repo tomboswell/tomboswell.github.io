@@ -402,6 +402,8 @@ img#rounded {
     text-decoration: none;
 
     border: 4px solid;
+	
+    background-color: pink;
 
     padding: 15px 15px;
 
