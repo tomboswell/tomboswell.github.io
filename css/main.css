@@ -218,7 +218,7 @@ textarea {
 }
 
 .active, .collapsible:hover {
-  background-color: #555;
+  background-color: #f7c6c6;
 }
 
 .collapsible:after {
