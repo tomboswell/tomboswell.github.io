@@ -295,7 +295,9 @@ h1, h2, a {
 }
 
 
-
+h2#blue {
+	color:#ccffdd;
+}
 
 
 
