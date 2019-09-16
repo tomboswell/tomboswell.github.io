@@ -206,14 +206,14 @@ textarea {
 
 .collapsible {
   background-color: #F7D6C6;
-  color: black;
+  color: #882064;
   cursor: pointer;
   padding: 18px;
   width: 100%;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
+  font-size: 22px;
   border-radius: 12px;
 }
 
@@ -223,7 +223,7 @@ textarea {
 
 .collapsible:after {
   content: '\002B';
-  color: white;
+  color: #882064;
   font-weight: bold;
   float: right;
   margin-left: 5px;
