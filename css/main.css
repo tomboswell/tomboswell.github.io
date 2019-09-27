@@ -496,7 +496,10 @@ img#rounded {
   }
 
 
-
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
 
 
 
