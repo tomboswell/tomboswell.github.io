@@ -508,6 +508,15 @@ iframe, object, embed {
 }
 
 
+div#news {
+  width: 483px;
+  padding: 10px;
+  border: 1px solid gray;
+  margin: 0;
+  max-width: 100%;
+}
+
+
 
  /* ==========================================================================
 
