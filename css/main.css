@@ -515,6 +515,10 @@ div#news {
   max-width: 100%;
 margin-right: auto;
 margin-left: auto;  
+	padding-top: 10px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  padding-left: 0px;
 	font-size: 14px;
 	color: grey;
 }
