@@ -526,6 +526,9 @@ margin-left: auto;
 
 footer {
   display: block;
+font-size: 10px;
+line-height: 0;
+text-align: left;
 }
 
 
