@@ -326,6 +326,22 @@ h2#blue {
 }
 
 
+.top {
+
+    padding-top: 0px;
+
+    padding-bottom: 0px;
+
+      width: 100%;
+
+ max-width: 720px; /* or whatever width you want */
+
+	margin-right: auto;
+
+	margin-left: auto;  
+
+}
+
 
 
 
