@@ -516,6 +516,8 @@ img#rounded {
    text-decoration: none;
 
   color: #882064;
+	
+	line-height: 80%; /* height spacing on nav */
 
   }
 
