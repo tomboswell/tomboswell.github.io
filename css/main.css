@@ -415,7 +415,6 @@ img#rounded {
 
 .icons8link {
 
-    font-size: 10px;
 
     font-weight: bold;
 
@@ -426,8 +425,19 @@ img#rounded {
 }
 
 
-
 .anchor {
+
+    font-weight: bold;
+
+    text-decoration: underline;
+	
+	font-size: 17px;
+
+}
+
+
+
+.contact {
 
     font-size: 17px;
 
