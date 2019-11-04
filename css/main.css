@@ -474,6 +474,21 @@ img#rounded {
 }
 
 
+span.code {
+   font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+     border: none;
+	    background-color: #99ffb9;
+     padding: 15px 25px;
+     margin-top: 5px;
+     display: inline-block;
+     border-radius: 60px;
+    max-width: 100%;
+  
+}
+
+
 
 
 
