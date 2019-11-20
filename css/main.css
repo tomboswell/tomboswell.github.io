@@ -305,7 +305,8 @@ h1, h2, a {
 p#blue {
 	color:#99ffb9;
 	  font-family: 'Dosis', sans-serif;
- font-size: 17px;
+ font-size: 19px;
+	font-weight: bold;
 }
 
 
