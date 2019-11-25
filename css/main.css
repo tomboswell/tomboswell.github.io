@@ -205,7 +205,7 @@ textarea {
    ========================================================================== */
 
 .collapsible {
-  background-color: #F7D6C6;
+  background-color: #e6e6e6;
   color: #882064;
   cursor: pointer;
   padding: 18px;
@@ -219,7 +219,7 @@ textarea {
 }
 
 .active, .collapsible:hover {
-  background-color: #f7c6c6;
+  background-color: #F7D6C6;
 }
 
 .collapsible:after {
