@@ -489,13 +489,13 @@ img#rounded {
 
 
 span.code {
-   font-size: 14px;
+   font-size: 12px;
     font-weight: bold;
     text-decoration: none;
      border: none;
 	    background-color: #99ffb9;
-     padding: 15px 25px;
-     margin-top: 5px;
+     padding: 2px 5px 2px 5px;
+     margin-top: 1px;
      display: inline-block;
      border-radius: 60px;
     max-width: 100%;
