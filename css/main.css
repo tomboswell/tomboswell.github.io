@@ -246,7 +246,7 @@ textarea {
 
 body {
 
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Roboto', sans-serif;
 
     font-size: 17px;
 
@@ -274,6 +274,8 @@ ul {
 
 h1 {
 
+    font-family: 'Libre Caslon Text', serif;
+	
     font-size: 50px;
 
     line-height: 0;
@@ -288,6 +290,7 @@ h1 {
 
 h2 {
 
+    font-family: 'Libre Caslon Text', serif;
     font-size: 42px;
     margin-bottom: 3px;
 
@@ -306,7 +309,7 @@ h1, h2, a {
 
 p#blue {
 	color:#99ffb9;
-	  font-family: 'Dosis', sans-serif;
+	  font-family: 'Roboto', sans-serif;
  font-size: 30px;
 	font-weight: bold;
 }
