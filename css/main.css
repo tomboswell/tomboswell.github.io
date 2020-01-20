@@ -281,6 +281,8 @@ h1 {
     line-height: 0;
 
     text-align: center;
+	
+font-weight: bold;
 
   
 
@@ -293,6 +295,7 @@ h2 {
     font-family: 'Libre Caslon Text', serif;
     font-size: 42px;
     margin-bottom: 3px;
+	font-weight: bold;
 
 
 
