@@ -328,7 +328,7 @@ p#blue {
 
       width: 100%;
 
- max-width: auto; /* was 720 or whatever width you want */
+ max-width: 720px; /*  or whatever width you want */
 
 	margin-right: auto;
 
