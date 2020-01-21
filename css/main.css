@@ -328,7 +328,7 @@ p#blue {
 
       width: 100%;
 
- max-width: 720px; /* or whatever width you want */
+ max-width: auto; /* was 720 or whatever width you want */
 
 	margin-right: auto;
 
@@ -532,6 +532,8 @@ span.code {
     text-align:center;
 
     font-size: 17px;
+	
+    background-color: #ffa67a
 
 }
 
