@@ -206,9 +206,8 @@ textarea {
 
 .collapsible {
   background-color: #e6e6e6;
-  color: #882064;
   cursor: pointer;
-  padding: 18px;
+  padding: 18px; 
   width: 100%;
   border: none;
   text-align: left;
