@@ -519,9 +519,9 @@ span.code {
 
     border:0px solid #ccc;
 
-    border-width:3px 0;
+    border-width:0 0 1px 0;
 
-    border-color:#882064;
+    border-color:#808080;
 
     list-style:none;
 
