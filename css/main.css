@@ -647,7 +647,7 @@ padding-bottom: 30px;
 .line {
 	max-width: 3000px !important;
       height: 2px;
-       background: red;
+       background: yellow;
 	width: 100%;
 }
 	
