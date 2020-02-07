@@ -277,9 +277,7 @@ body {
 
     text-align: center;
 	
-	 width: 95%;
-
- max-width: 1024px; /* or whatever width you want */
+	
 
 	margin-right: auto;
 
@@ -381,7 +379,7 @@ p#blue {
 
 
 
-.resume {
+.resumeorigi {
 
     padding-top: 0px;
 
@@ -390,6 +388,23 @@ p#blue {
       width: 100%;
 
  max-width: 720px; /* or whatever width you want */
+
+	margin-right: auto;
+
+	margin-left: auto;  
+
+}
+
+
+.resume {
+
+    padding-top: 0px;
+
+    padding-bottom: 0px;
+
+     width: 95%;
+
+ max-width: 1024px; /* or whatever width you want */
 
 	margin-right: auto;
 
