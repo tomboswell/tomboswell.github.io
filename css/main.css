@@ -623,11 +623,12 @@ padding-bottom: 30px;
 
 
 .verticalLine {
-       width: 1px;
-       height: 100px;
-       background: red);
 	max-width: none;
-
+      height: 2px;
+       background: red;
+}
+	
+	
 
  /* ==========================================================================
 
