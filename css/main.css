@@ -513,6 +513,20 @@ span.code {
 }
 
 
+span.skills {
+   font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    border: 2px solid black;
+     padding: 2px 5px 2px 5px;
+     margin-top: 1px;
+     display: inline-block;
+     border-radius: 60px;
+    max-width: 100%;
+  
+}
+
+
 
 
 
