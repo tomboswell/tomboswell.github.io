@@ -622,7 +622,7 @@ padding-bottom: 30px;
 }
 
 
-.verticalLine {
+.line {
 	max-width: none;
       height: 2px;
        background: red;
