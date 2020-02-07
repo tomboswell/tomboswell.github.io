@@ -276,17 +276,14 @@ body {
     line-height: 1.5;
 
     text-align: center;
+	
+	 width: 95%;
+
+ max-width: 1024px; /* or whatever width you want */
 
 	margin-right: auto;
 
 	margin-left: auto;  
-
-}
-
-. container {
-	 width: 95%;
-
- max-width: 1024px; /* or whatever width you want */
 
 }
 
@@ -654,6 +651,12 @@ padding-bottom: 30px;
 	width: 100%;
 }
 	
+
+header {
+	max-width: 3000px !important;
+      
+	width: 100%;
+}
 	
 
  /* ==========================================================================
