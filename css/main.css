@@ -244,7 +244,7 @@ textarea {
 }
 
 
-body {
+xbody {
 
     font-family: 'Dosis', sans-serif;
 
@@ -262,6 +262,31 @@ body {
 	margin-right: auto;
 
 	margin-left: auto;  
+
+}
+
+
+body {
+
+    font-family: 'Dosis', sans-serif;
+
+    font-size: 17px;
+	font-weight: 600;
+
+    line-height: 1.5;
+
+    text-align: center;
+
+	margin-right: auto;
+
+	margin-left: auto;  
+
+}
+
+. container {
+	 width: 95%;
+
+ max-width: 1024px; /* or whatever width you want */
 
 }
 
