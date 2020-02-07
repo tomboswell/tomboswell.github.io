@@ -623,7 +623,7 @@ padding-bottom: 30px;
 
 
 .line {
-	max-width: none;
+	max-width: 3000px;
       height: 2px;
        background: red;
 }
