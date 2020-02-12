@@ -645,16 +645,18 @@ padding-bottom: 30px;
 .line {
 	max-width: 3000px !important;
       height: 2px;
-       background: pink;
+       background: black;
 	width: 100%;
 }
 	
 
-header {
+.line:not(body) {
 	max-width: 3000px !important;
-      
 	width: 100%;
 }
+
+
+
 	
 
  /* ==========================================================================
