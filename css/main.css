@@ -244,7 +244,7 @@ textarea {
 }
 
 
-xbody {
+body {
 
     font-family: 'Dosis', sans-serif;
 
@@ -642,18 +642,15 @@ padding-bottom: 30px;
 }
 
 
-.line {
+.line:not(body) {
 	max-width: 3000px !important;
-      height: 2px;
-       background: green;
+      height: 1px;
+       background: red;
 	width: 100%;
 }
 	
 
-.line:not(body) {
-	max-width: 3000px !important;
-	width: 100%;
-}
+
 
 
 
