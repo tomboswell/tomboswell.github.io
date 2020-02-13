@@ -345,7 +345,7 @@ p#blue {
 
 .top {
 
-    padding-top: 60px;
+    padding-top: 100px;
 
     padding-bottom: 0px;
 
@@ -381,7 +381,7 @@ p#blue {
 
 .resume {
 
-    padding-top: 70px;
+    padding-top: 100px;
 
     padding-bottom: 0px;
 
@@ -651,8 +651,8 @@ padding-bottom: 30px;
 
 .line:not(body) {
 	max-width: 3000px !important;
-      height: 4px;
-       background: blue;
+      height: 10px;
+       background: pink;
 	width: 100%;
 }
 	
