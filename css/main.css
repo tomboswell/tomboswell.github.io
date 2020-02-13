@@ -326,7 +326,7 @@ p#blue {
 
 .about {
 
-    padding-top: 30px;
+    padding-top: 70px;
 
     padding-bottom: 10px;
 
@@ -568,7 +568,7 @@ span.skills {
 
     font-size: 17px;
 	
-	
+	background-color: white;
 	position: fixed;
   right: 0;
   left: 0;
