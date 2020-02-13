@@ -651,8 +651,8 @@ padding-bottom: 30px;
 
 .line:not(body) {
 	max-width: 3000px !important;
-      height: 1px;
-       background: green;
+      height: 4px;
+       background: black;
 	width: 100%;
 }
 	
