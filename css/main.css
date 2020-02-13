@@ -568,6 +568,13 @@ span.skills {
 
     font-size: 17px;
 	
+	
+	position: fixed;
+  right: 0;
+  left: 0;
+  top: 0;
+  z-index: 1030;
+	
     
 
 }
@@ -645,7 +652,7 @@ padding-bottom: 30px;
 .line:not(body) {
 	max-width: 3000px !important;
       height: 1px;
-       background: red;
+       background: green;
 	width: 100%;
 }
 	
