@@ -453,7 +453,7 @@ img#rounded {
 
     font-weight: bold;
 
-    text-decoration: underline;
+    text-decoration: none;
 	
 	font-size: 12px;
 
@@ -493,6 +493,8 @@ img#rounded {
     border-radius: 25px;
 
 	max-width: 100%;
+	
+	color: #882064;
 
 }
 
@@ -588,7 +590,7 @@ span.skills {
 
     font-family: 'Dosis', sans-serif;
 
-    color: #882064;
+    color: black;
 
 }
 
