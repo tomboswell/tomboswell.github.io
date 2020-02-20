@@ -206,7 +206,7 @@ textarea {
 
 .collapsible {
   background-color: #e6e6e6;
-	color: #882064;
+	color: black;
   cursor: pointer;
   padding: 18px; 
   width: 100%;
@@ -225,7 +225,7 @@ textarea {
 
 .collapsible:after {
   content: '\002B';
-  color: #882064;
+  color: black;
   font-weight: bold;
   float: right;
   margin-left: 5px;
@@ -309,7 +309,7 @@ font-family: 'Dosis', sans-serif;
 
 a {
 
-    color:##0073b1;
+    color:#0073b1;
 	text-decoration: none;
 
 }
