@@ -543,6 +543,8 @@ span.skills {
      display: inline-block;
      border-radius: 60px;
     max-width: 100%;
+	background-color: black;
+	color: white;
   
 }
 
