@@ -552,6 +552,20 @@ span.skills {
 }
 
 
+span.skills2 {
+   font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    border: 2px solid black;
+     padding: 1px 10px 1px 10px;
+     margin-top: 1px;
+     display: inline-block;
+     border-radius: 60px;
+    max-width: 100%;
+	background-color: white;
+	color: black;
+  
+}
 
 
 
