@@ -579,13 +579,13 @@ span.skillshtml {
    font-size: 12px;
     font-weight: bold;
     text-decoration: none;
-    border: 2px solid black;
+    border: 2px solid #ffa67a;
      padding: 1px 10px 1px 10px;
      margin-top: 1px;
      display: inline-block;
      border-radius: 60px;
     max-width: 100%;
-	background-color: blue;
+	background-color: #ffa67a;
 	color: black;
   
 }
@@ -595,13 +595,13 @@ span.skillscss {
    font-size: 12px;
     font-weight: bold;
     text-decoration: none;
-    border: 2px solid black;
+    border: 2px solid #fadb7f;
      padding: 1px 10px 1px 10px;
      margin-top: 1px;
      display: inline-block;
      border-radius: 60px;
     max-width: 100%;
-	background-color: green;
+	background-color: #fadb7f;
 	color: black;
   
 }
@@ -610,13 +610,13 @@ span.skillsjava {
    font-size: 12px;
     font-weight: bold;
     text-decoration: none;
-    border: 2px solid black;
+    border: 2px solid #d1f9f0;
      padding: 1px 10px 1px 10px;
      margin-top: 1px;
      display: inline-block;
      border-radius: 60px;
     max-width: 100%;
-	background-color: yellow;
+	background-color: #d1f9f0;
 	color: black;
   
 }
