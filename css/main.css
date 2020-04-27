@@ -327,7 +327,7 @@ p#blue {
 
 .about {
 
-    padding-top: 100px;
+    padding-top: 60px;
 
     padding-bottom: 10px;
 
@@ -402,6 +402,8 @@ img#roundpro {
 	max-width: 140px;
 
 	border-radius: 50%
+		
+		padding-top: 10px;
 
 }
 
