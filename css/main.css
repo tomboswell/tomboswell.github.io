@@ -361,6 +361,23 @@ p#blue {
 
 }
 
+.quicktop {
+
+    padding-top: 5px;
+
+    padding-bottom: 0px;
+
+      width: 100%;
+
+ max-width: 720px; /* or whatever width you want */
+
+	margin-right: auto;
+
+	margin-left: auto;  
+
+}
+
+
 
 
 
