@@ -536,9 +536,9 @@ img#rounded {
 
     text-decoration: none;
 
-    border: none;
+    border: 2px solid black;
 	
-    background-color: #F7CAC9;
+    background-color: white;
 
     padding: 15px 15px;
 
