@@ -327,22 +327,24 @@ p#blue {
 
 
 .about {
-
     padding-top: 80px;
-
     padding-bottom: 10px;
-
       width: 100%;
-
  max-width: 720px; /*  or whatever width you want */
-
 	margin-right: auto;
-
 	margin-left: auto;  
-	
-    
-
 }
+
+.aboutquick {
+    padding-top: 0px;
+    padding-bottom: 10px;
+      width: 100%;
+ max-width: 720px; /*  or whatever width you want */
+	margin-right: auto;
+	margin-left: auto;  
+}
+
+
 
 
 .top {
