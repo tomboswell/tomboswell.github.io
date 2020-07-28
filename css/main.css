@@ -531,25 +531,15 @@ img#rounded {
 .quicklinks {
 
     font-size: 17px;
-
     font-weight: bold;
-
     text-decoration: none;
-
     border: 2px solid black;
-	
-    background-color: white;
-
     padding: 15px 15px;
-
     margin-top: 30px;
-
     display: inline-block;
-
     border-radius: 25px;
-
 	max-width: 100%;
-	
+	background-color: white;
 	color: #0073b1;
 
 }
