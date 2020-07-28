@@ -540,7 +540,7 @@ img#rounded {
     margin-top: 30px;
     display: inline-block;
     border-radius: 25px;
-	max-width: 100%;
+	width: 300px;
 	background-color: white;
 	color: #0073b1;
 
