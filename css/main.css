@@ -761,6 +761,22 @@ margin-left: auto;
 	color: gray;
 }
 
+div#newswhite {
+  width: 504px;
+  border: 1px solid white;
+  max-width: 100%;
+margin-right: auto;
+margin-left: auto;  
+	padding-top: 10px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+	text-align: left;
+	font-size: 14px;
+	color: gray;
+}
+
+
 div#topblock {
   height: 300px;
       background-color: #ffa67a; 
