@@ -749,7 +749,7 @@ iframe, object, embed {
 div#news {
   width: 504px;
   border: 1px solid gray;
-  max-width: 100%;
+  max-width: 90%;
 margin-right: auto;
 margin-left: auto;  
 	padding-top: 10px;
