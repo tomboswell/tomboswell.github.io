@@ -753,9 +753,9 @@ div#news {
 margin-right: auto;
 margin-left: auto;  
 	padding-top: 10px;
-  padding-right: 0px;
+  padding-right: 10px;
   padding-bottom: 10px;
-  padding-left: 0px;
+  padding-left: 10px;
 	text-align: left;
 	font-size: 14px;
 	color: gray;
