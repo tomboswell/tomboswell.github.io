@@ -2,3 +2,19 @@
 Sitemap: https://tomboswell.com/sitemap.xml
 User-agent: *
 Disallow:
+
+User-agent: Googlebot-Image
+Disallow: /images/CSM.png
+Disallow: /images/ICP-ACC.png
+Disallow: /images/ICP-ATF.png
+Disallow: /images/SAFe-Agilist.png
+Disallow: /images/agile-coaching.png
+Disallow: /images/coding.png
+Disallow: /images/contact.png
+Disallow: /images/curriculum-vitae.png
+Disallow: /images/news.png
+Disallow: /images/contact.png
+Disallow: /images/scaling-agile.png
+Disallow: /images/bfi_logo_100.jpg
+Disallow: /images/fourth_logo_100.jpg
+Disallow: /images/red_bee_logo_100.jpg
