@@ -1,8 +1,5 @@
 
 Sitemap: https://tomboswell.com/sitemap.xml
-User-agent: *
-Disallow:
-
 User-agent: Googlebot-Image
 Disallow: /images/CSM.png
 Disallow: /images/ICP-ACC.png
