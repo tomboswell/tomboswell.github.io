@@ -15,3 +15,4 @@ Disallow: /images/scaling-agile.png
 Disallow: /images/bfi_logo_100.jpg
 Disallow: /images/fourth_logo_100.jpg
 Disallow: /images/red_bee_logo_100.jpg
+Disallow: /images/globalsign_logo_100.jpg
