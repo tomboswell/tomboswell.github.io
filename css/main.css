@@ -721,13 +721,15 @@ span.skillspython {
 
     display:inline-block;
 
-    padding:15px;
+    padding:18px;
 
    text-decoration: none;
 
   color: #0073b1;
 	
 	font-weight: 600;
+	
+	font-size: 18px;
 	
 	line-height: 60%; /* height spacing on nav */
 
