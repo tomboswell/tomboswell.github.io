@@ -206,7 +206,7 @@ textarea {
 
 .collapsible {
   background-color: #F4F2E7;
-	color: #0073b1;
+	color: ##6258ff;
   cursor: pointer;
   padding: 18px; 
   width: 100%;
@@ -225,7 +225,7 @@ textarea {
 
 .collapsible:after {
   content: '\002B';
-  color: #0073b1;
+  color: #6258ff;
   font-weight: bold;
   float: right;
   margin-left: 5px;
