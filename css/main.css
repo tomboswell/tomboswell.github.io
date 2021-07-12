@@ -299,7 +299,7 @@ font-family: 'Dosis', sans-serif;
 }
 
 
-h1#alt {
+.h1alt {
 
   font-family: 'Dosis', sans-serif;
 	font-size: 50px;
@@ -313,7 +313,7 @@ text-align: center;
 
 
 
-h2#alt {
+.h2alt {
 
 font-family: 'Dosis', sans-serif;
     font-size: 33px;
@@ -325,8 +325,6 @@ font-family: 'Dosis', sans-serif;
 
 
 
-
-#FFA67A
 
 
 
