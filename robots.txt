@@ -17,3 +17,4 @@ Disallow: /images/fourth_logo_100.jpg
 Disallow: /images/red_bee_logo_100.jpg
 Disallow: /images/globalsign_logo_100.jpg
 Disallow: /images/Tom-Boswell-Avatar.png
+Disallow: /images/Tom-Boswell-Avatar-Square.png
