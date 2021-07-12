@@ -279,19 +279,12 @@ ul {
 h1 {
 
   font-family: 'Dosis', sans-serif;
-	
-    font-size: 50px;
-
-    line-height: 1;
-
-    text-align: center;
-	
-font-weight: bold;
-
-  margin-bottom: 3px;
-	
+	font-size: 50px;
+line-height: 1;
+text-align: center;
+	font-weight: bold;
+ margin-bottom: 3px;
 	margin-top: 3px;
-
 }
 
 
@@ -303,10 +296,37 @@ font-family: 'Dosis', sans-serif;
     margin-bottom: 3px;
 	margin-top: 3px;
 	font-weight: bold;
-
-
-
 }
+
+
+h1#alt {
+
+  font-family: 'Dosis', sans-serif;
+	font-size: 50px;
+line-height: 1;
+text-align: center;
+	font-weight: bold;
+ margin-bottom: 3px;
+	margin-top: 3px;
+	color:#FFA67A;
+}
+
+
+
+h2#alt {
+
+font-family: 'Dosis', sans-serif;
+    font-size: 33px;
+    margin-bottom: 3px;
+	margin-top: 3px;
+	font-weight: bold;
+	color:#FFA67A;
+}
+
+
+
+
+#FFA67A
 
 
 
