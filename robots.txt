@@ -18,3 +18,5 @@ Disallow: /images/red_bee_logo_100.jpg
 Disallow: /images/globalsign_logo_100.jpg
 Disallow: /images/Tom-Boswell-Avatar.png
 Disallow: /images/Tom-Boswell-Avatar-Square.png
+Disallow: /images/infographic-link.png
+Disallow: /images/planning-template-link.png
