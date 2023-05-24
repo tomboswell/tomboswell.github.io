@@ -584,6 +584,35 @@ img#rounded {
 }
 
 
+
+.resources {
+
+    font-size: 17px;
+
+    font-weight: bold;
+
+    text-decoration: none;
+
+    border: none;
+	
+    background-color: #F7CAC9;
+
+    padding: 15px 15px;
+
+    margin-top: 30px;
+
+    display: inline-block;
+
+    border-radius: 25px;
+
+	width: 300px;
+	
+	color: #6258ff;
+
+}
+
+
+
 .quicklinks {
 
     font-size: 17px;
