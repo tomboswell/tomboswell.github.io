@@ -276,6 +276,12 @@ ul {
 
 
 
+ul.b {
+  padding-right: 0px;
+}
+
+
+
 h1 {
 
   font-family: 'Dosis', sans-serif;
